@@ -1,0 +1,27 @@
+.ingredients-left {
+  width: 15%
+}
+
+.field,
+.field ul.links {
+  font-family: inherit !important;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.field-collection-view-links {
+  display: none;
+}
+
+.field-collection-view {
+  border: 0;
+  padding: 0;
+}
+
+.field-type-taxonomy-term-reference {
+  margin: 0;
+}
+
+.field-collection-container .field-items .field-item {
+margin-bottom: 0px;
+}
